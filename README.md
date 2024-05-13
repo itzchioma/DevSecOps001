@@ -1,5 +1,7 @@
 ## End-to-End DevSecOps Kubernetes Project using AWS, Jenkins CICD Pipeline
 
+![Devsecops-Deployment-architecture](https://github.com/itzchioma/DevSecOps001/blob/main/Devsecops-Deployment-architecture%20.png)
+
 #### Today we will be deploying a Netflix clone! We will be using a variety of tools to automate the build, test, and deployment process, as well as to monitor the health of our application.
 
 ##### Here are the tools we will be using:
